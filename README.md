@@ -23,6 +23,11 @@ AI-Sentiment-Analysis/
 │  └─ bert-notebook.ipynb
 ├─ README.md                   # Project overview and documentation
 ```
+**Reports** within the assignments are documents that include details on data processing steps, such as preprocessing, analysis, and vectorization, followed by experiments, hyperparameter tuning, optimization techniques, and evaluation. Each report concludes with an overall analysis of the results and a summary of the best-performing trials, including a comparison with previous approaches (assignments).
+
+**Instructions** refer to the official assignment guidelines provided for each task.
+
+The **.ipynb files** are notebooks that include the code, experiments, and the process leading to the final selected model for each assignment.
 
 ---
 
@@ -36,3 +41,14 @@ A feedforward neural network built with PyTorch, leveraging Word2Vec embeddings 
 
 ### 🔹 Assignment 3: Fine-tuned Transformers (BERT & DistilBERT)
 State-of-the-art transformer-based models fine-tuned using HuggingFace’s `transformers` library for high-accuracy sentiment classification.
+
+---
+
+## 🧰 Technologies Used
+
+- Python ≥ 3.8
+- `scikit-learn`
+- `PyTorch`
+- `HuggingFace Transformers`
+- `gensim`
+- `pandas`, `numpy`, `matplotlib`, `seaborn`
