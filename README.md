@@ -2,6 +2,8 @@
 
 This repository contains three sentiment classification models developed for the course **Artificial Intelligence II – Deep Learning for NLP** (Spring 2024–2025). The models classify English-language tweets into positive or negative sentiment using increasingly advanced techniques.
 
+The code notebooks were developed and submitted in **Kaggle** under a competition format, while the accompanying reports were written in **LaTeX** using **Overleaf**.
+
 ---
 
 ## 📂 Project Structure
@@ -46,9 +48,10 @@ State-of-the-art transformer-based models fine-tuned using HuggingFace’s `tran
 
 ## 🧰 Technologies Used
 
-- Python ≥ 3.8
+- `Python`
 - `scikit-learn`
 - `PyTorch`
 - `HuggingFace Transformers`
 - `gensim`
 - `pandas`, `numpy`, `matplotlib`, `seaborn`
+- and many more!
